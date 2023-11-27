@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    
+}
+div{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    border: 1px solid black;
+    transition:  all 0.2s ease-in-out ;
+}
+button {
+    cursor: pointer;
+}
